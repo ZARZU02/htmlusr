@@ -2039,7 +2039,7 @@ body {
 .main-header {
   min-height: 55px;
   width: 100%;
-  background: #ffffff;
+  background: #F2DC99;
   position: fixed;
   z-index: 1001;
   border-bottom: 1px solid #eee;
@@ -2090,9 +2090,9 @@ body {
   width: 260px;
   display: block;
   z-index: 1;
-  color: #ffffff;
+  color: #f2f2f2;
   font-weight: 200;
-  background: #ffffff;
+  background-color: #A57EBF;
   background-size: cover;
   background-position: center center;
   border-right: 1px solid #eee;
@@ -2130,7 +2130,7 @@ body {
 .sidebar .user .info a > span {
   font-size: 14px;
   font-weight: 600;
-  color: #777;
+  color: #f2f2f2;
   letter-spacing: 0.04em;
   display: flex;
   flex-direction: column;
@@ -2170,7 +2170,7 @@ body {
   display: list-item;
 }
 .sidebar .nav .nav-item.active a {
-  color: #575962;
+  color: #f2f2f2;
   font-weight: 700;
 }
 .sidebar .nav .nav-item.active a:before {
@@ -2201,7 +2201,7 @@ body {
 .sidebar .nav .nav-item a {
   display: flex;
   align-items: center;
-  color: #83848a;
+  color: #f2f2f2;
   padding: 13px 25px;
   width: 100%;
   font-size: 14px;
